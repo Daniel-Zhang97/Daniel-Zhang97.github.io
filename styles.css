@@ -23,6 +23,10 @@ a:hover {
   color: white;
 }
 
+.nav-link:hover {
+  color: white;
+}
+
 .links {
   max-height: 600px;
 
